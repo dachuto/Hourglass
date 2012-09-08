@@ -9,3 +9,6 @@ hunspell (add -lhunspell if linking problems happen)
 Data:
 hi-res modern template
 
+TODO:
+edit hi-res template to lower middle line
+
