@@ -12,3 +12,13 @@ hi-res modern template
 TODO:
 edit hi-res template to lower middle line
 
+
+Also:
+$ cat ~/.gitconfig
+[user]
+	email = dachuto@gazeta.pl
+	name = dachuto
+
+[diff "zip"]
+	textconv = unzip -c -a
+
